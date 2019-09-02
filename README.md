@@ -1,2 +1,2 @@
 # lisbon
-Tailer de git em Lisboa
+academia de git em Lisboa
